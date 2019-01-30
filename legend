@@ -1,0 +1,31 @@
+The map need to have 11 char of hight and at the end of the line you need to place a '\n'
+The 11 line need to be fill with '4' char
+
+3
+3 represent a pillar in game 
+
+2 represent spike in game
+
+1 represent a endflag
+
+The line need to have the same lenght
+All object need to have a directly contact withe the 11 line
+You can not add an object on top of another object like :
+               3 
+     3    2    3 
+2    3          
+3    3         3
+3    3    2    3
+
+Exemple of good map :
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                                                                                                                                                                                      
+                   3 3 3 3333333333333333333          3333         3                  3        3                 3      3     333            3                                        
+                   3 3 3 3333333333333333333          3333         3      2           3        3       2      2  3      3     333        2   3                                       1
+44444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
